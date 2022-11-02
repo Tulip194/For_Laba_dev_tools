@@ -1,0 +1,3 @@
+[submodule "the different repository"]
+	path = the different repository
+	url = https://github.com/Tulip194/Atom-projects.git
